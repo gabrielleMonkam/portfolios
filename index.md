@@ -30,7 +30,7 @@
 -	Use Power BI to import the data from the data source
 -	Prepare, clean and transform data using Power BI Query Editor 
 -	build a robust data model from 7 dimensional tables and 1 fact table
--	Apply DAX and calculations groups to create metrics in Power BI: Sales, Cost, Profit, Proft Margin, Average Order Value, # of Active Customers, # of Ative Ressellers, Top N Rank, Top N Sales, Sales % to Total.
+-	Apply DAX and calculations groups to create metrics in Power BI: Sales, Cost, Profit, Profit Margin, Average Order Value, # of Active Customers, # of Ative Ressellers, Top N Rank, Top N Sales, Sales % to Total.
 <img src="images/Retail Dash2.png?raw=true"/>
 <img src="images/Retail Dashboard.png?raw=true"/>
 
