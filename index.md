@@ -14,7 +14,7 @@
 
 
 ---
-[Finamce Department's Metrics (Tableau, KPI, Visualization)](https://github.com/gabrielleMonkam/portfolios/edit/master/index.md)
+[Finance Department's Metrics (Tableau, KPI, Visualization)](https://github.com/gabrielleMonkam/portfolios/edit/master/index.md)
 -	Performed analysis to provide the finance department with relevant metrics:
 -	Connect to the data source (Excel Files)
 -	Use Joins to prepare your data for analysis
