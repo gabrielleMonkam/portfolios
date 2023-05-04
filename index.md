@@ -45,14 +45,19 @@
 <img src="images/Digital marketing2.png?raw=true"/>
 
 
+[Tech Lay Offs (Power BI,KPI, Visualization)](https://github.com/gabrielleMonkam/portfolios/edit/master/index.md)
+-	Performed analysis to provide Tech Lay Offs in 20223
+-	Import the dataset from the data source
+-	Extract, Transform and load data 
+-	Built a dynamic KPI dashboard which displays Total Lay off, Total fund raised,.
+<img src="images/Tech Lay Offs Analysis.pdf.png?raw=true"/>
+
 [Supply Chain (Power BI,KPI, Visualization)](https://github.com/gabrielleMonkam/portfolios/edit/master/index.md)
 -	Performed analysis to provide Provide visibility and control over the supply chain process to increase the efficiency in the deliveries and customer satisfaction:
 -	Import the dataset from the data source
 -	Prepare, clean and transform  your data 
 -	Built a dynamic KPI dashboard which displays Total sales, Total profit, Discount Offered, Delayed deliveries, Total number of orders.
 <img src="images/supply chain 2.png?raw=true"/>
-
-
 
 ---
 
