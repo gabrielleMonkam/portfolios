@@ -52,12 +52,12 @@
 -	Built a dynamic KPI dashboard which displays Total Lay off, Total fund raised,.
 <img src="images/Tech Lay Offs Analysis.pdf.png?raw=true"/>
 
-[Supply Chain (Power BI,KPI, Visualization)](https://github.com/gabrielleMonkam/portfolios/edit/master/index.md)
--	Performed analysis to provide Provide visibility and control over the supply chain process to increase the efficiency in the deliveries and customer satisfaction:
+[Customer Analysis Report (Tableau,KPI, Visualization)](https://github.com/gabrielleMonkam/portfolios/edit/master/index.md)
+-	Performed analysis to provide insights about the customer Purchasing
 -	Import the dataset from the data source
 -	Prepare, clean and transform  your data 
--	Built a dynamic KPI dashboard which displays Total sales, Total profit, Discount Offered, Delayed deliveries, Total number of orders.
-<img src="images/supply chain 2.png?raw=true"/>
+-	Built a dynamic dashboard which displays revenue per month, age and gender, sales per region and states, order per category.
+<img src="images/customer analysis@ Tab.pdf.png?raw=true"/>
 
 ---
 
