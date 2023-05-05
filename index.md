@@ -57,7 +57,14 @@
 -	Import the dataset from the data source
 -	Prepare, clean and transform  your data 
 -	Built a dynamic dashboard which displays revenue per month, age and gender, sales per region and states, order per category.
-<img src="images/customer analysis@ Tab.pdf.png?raw=true"/>
+<img src="images/customer analysis@Tab.pdf.png?raw=true"/>
+
+[Sales Analysis (Power BI,KPI, Visualization)](https://github.com/gabrielleMonkam/portfolios/edit/master/index.md)
+-	Performed analysis to provide insights about the sales during January 2018 and May 2021 
+-	Import the dataset from the data source
+-	Extract, transform and load data 
+-	Built a dynamic KPI dashboard which displays Total sales, Quantity and transactions over the years.
+<img src="images/sales Analysis.pdf.png?raw=true"/>
 
 ---
 
