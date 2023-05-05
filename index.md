@@ -46,25 +46,46 @@
 
 
 [Tech Lay Offs (Power BI,KPI, Visualization)](https://github.com/gabrielleMonkam/portfolios/edit/master/index.md)
--	Performed analysis to provide Tech Lay Offs in 20223
+-	Performed analysis to provide Tech Lay Offs in 20223:
 -	Import the dataset from the data source
 -	Extract, Transform and load data 
 -	Built a dynamic KPI dashboard which displays Total Lay off, Total fund raised,.
 <img src="images/Tech Lay Offs Analysis.pdf.png?raw=true"/>
 
 [Customer Analysis Report (Tableau,KPI, Visualization)](https://github.com/gabrielleMonkam/portfolios/edit/master/index.md)
--	Performed analysis to provide insights about the customer Purchasing
+-	Performed analysis to provide insights about the customer Purchasing:
 -	Import the dataset from the data source
 -	Prepare, clean and transform  your data 
 -	Built a dynamic dashboard which displays revenue per month, age and gender, sales per region and states, order per category.
 <img src="images/customer analysis@Tab.pdf.png?raw=true"/>
 
 [Sales Analysis (Power BI,KPI, Visualization)](https://github.com/gabrielleMonkam/portfolios/edit/master/index.md)
--	Performed analysis to provide insights about the sales during January 2018 and May 2021 
+-	Performed analysis to provide insights about the sales during January 2018 and May 2021: 
 -	Import the dataset from the data source
 -	Extract, transform and load data 
 -	Built a dynamic KPI dashboard which displays Total sales, Quantity and transactions over the years.
-<img src="images/sales Analysis.pdf.png?raw=true"/>
+<img src="images/Sales Analysis.pdf.png?raw=true"/>
+
+[Data Professional Analysis (Power BI,KPI, Visualization)](https://github.com/gabrielleMonkam/portfolios/edit/master/index.md)
+-	Performed analysis to provide Data Professional Statistics:
+-	Import the dataset from the data source
+-	Prepare, clean and transform data 
+-	Built a dynamic KPI dashboard which displays Average Age, Average yearly salary, gender gap, programming language used. 
+<img src="images/Data Prof Analysis.pdf.png?raw=true"/>
+
+[Student Alcohol Consumption (Excel,KPI, Visualization)](https://github.com/gabrielleMonkam/portfolios/edit/master/index.md)
+-	Performed analysis to provide the student alcohol consumption: 
+-	Import the dataset from the data source
+-	data cleaning 
+-	Built a dynamic KPI dashboard which displays alcohol consumption per age and gender, guardian, parent job, family size.
+<img src="Student Alcohol Analysis.pdf.png?raw=true"/>
+
+[Desk Treadmill Sales Analysis (Excel,KPI, Visualization)](https://github.com/gabrielleMonkam/portfolios/edit/master/index.md)
+-	Performed analysis to provide insights about the treadmill sales analysis:
+-	Import the dataset from the data source
+-	Data cleaning 
+-	Built a dynamic KPI dashboard which displays marital status,region and education
+<img src="images/Excel Project1.pdf.png?raw=true"/>
 
 ---
 
